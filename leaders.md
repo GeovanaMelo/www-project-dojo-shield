@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Fernando Guisso](mailto:fernando.guisso@owasp.org)
+* [Geovana Silva](mailto:fernando.guisso@owasp.org)
